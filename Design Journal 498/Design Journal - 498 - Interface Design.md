@@ -113,8 +113,9 @@ What Already Exists:
 - Really expensive
 - Need extra tools to make it work sometimes
 - Complicated: too much customization and messy configurations
+
 2. **Zoho** https://www.zoho.com/
-######Why does it work well?
+###### Why does it work well?
 - Users can merge, clone and split tickets 
 - Self service capabilities 
 - Omnichannel
@@ -124,9 +125,10 @@ What Already Exists:
 ###### Why it doesn't work well
 -  Inconsistent navigation and workflow 
 - Doesn't integrate smoothly 
-- Steep learning curve and clunky UI
+- Steep learning curve and clunky UI/NO ICONS
 - Dated and overwhelming
 -  Multiple nested settings menus 
+
 3. **Slack** https://slack.com/ Why does it work well?
 - Flexible: internal support, communication and customer support
 - Collaboration 
@@ -138,6 +140,7 @@ What Already Exists:
 - Buried information in chats
 - Toxic availability makes people respond immediately 
 - Lacks structure for some projects 
+
 4. **Zendesk** https://www.zendesk.com/
 ###### Why does it work well?
 - No code-tools
@@ -155,7 +158,24 @@ What Already Exists:
 - Difficulty customizing data
 - No direct comment referencing in tickets and can't take notes
 - Reporting limitations
-# Data Interpretation
+
+# User Assumptions/Data Interpretation
 ##### Data Interpretation Approach
-[[	Empathy Map on Figma with a mix of Affinity Diagramming]]
-		- Link: https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?t=lH8eTZCQpcUQHqdf-6
+[[	Persona Map on Figma with a mix of Affinity Diagramming]]
+		- Link: [https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?t=lH8eTZCQpcUQHqdf-6](https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?node-id=17-1990&t=s9MU6RfQtC61Ij55-4)
+
+# List of Key Features
+##### Features important to test (3)
+	1. Damage sorting/severity levels
+	2. Filtering systems for searching artwork
+	3. ersonalization keys for case by case situations 
+
+# List of Detailed Features
+##### Links to user flow
+[[	User Flow on Figma]]
+		-  Link: https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?node-id=17-1991&t=s9MU6RfQtC61Ij55-4
+##### Links to wireframes
+- User 1: Ashmine "Spread Sheet Strawfiler": 
+- User 2: Bryton "Apple Facto"
+- User 3: Santiago "The Ticking Cherrybomber"
+- User 4: Alexis "Salassistant"
