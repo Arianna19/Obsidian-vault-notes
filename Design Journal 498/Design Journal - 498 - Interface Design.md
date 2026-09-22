@@ -101,12 +101,12 @@ Create a clear and user-friendly platform that helps museums manage their collec
 
 What Already Exists: 
 1. **SalesForce** https://www.salesforce.com/ca/
-		1. Why does it work well?
-			- Automates routing 
-			- Uses AI to categorize, prioritize and resolve 
-			- Omnichannel: works with email, chat
-			- Option for customers to send photos, videos and audio not just text
-			- Integrates with other tools: Slack real-time collab 
+		- Why does it work well?
+			1. Automates routing 
+			2. Uses AI to categorize, prioritize and resolve 
+			3. Omnichannel: works with email, chat
+			4. Option for customers to send photos, videos and audio not just text
+			5. Integrates with other tools: Slack real-time collab 
 		2. Why it doesn't work well
 			- Clunky user experience
 			- Non-intuitive layout 
