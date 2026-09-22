@@ -101,19 +101,19 @@ Create a clear and user-friendly platform that helps museums manage their collec
 
 What Already Exists: 
 1. **SalesForce** https://www.salesforce.com/ca/
-			a. Why does it work well?
+		1. Why does it work well?
 			- Automates routing 
 			- Uses AI to categorize, prioritize and resolve 
 			- Omnichannel: works with email, chat
 			- Option for customers to send photos, videos and audio not just text
 			- Integrates with other tools: Slack real-time collab 
-			b. Why it doesn't work well
+		2. Why it doesn't work well
 			- Clunky user experience
 			- Non-intuitive layout 
 			- Really expensive
 			- Need extra tools to make it work sometimes
 			- Complicated: too much customization and messy configurations
-2. **Zoho** https://www.zoho.com/
+3. **Zoho** https://www.zoho.com/
 		- Why does it work well?
 			- Users can merge, clone and split tickets 
 			- Self service capabilities 
@@ -127,7 +127,7 @@ What Already Exists:
 			- Steep learning curve and clunky UI
 			- Dated and overwhelming
 			- Multiple nested settings menus 
-3. **Slack** https://slack.com/
+4. **Slack** https://slack.com/
 		- Why does it work well?
 			- Flexible: internal support, communication and customer support
 			- Collaboration 
@@ -139,7 +139,7 @@ What Already Exists:
 			- Buried information in chats
 			- Toxic availability makes people respond immediately 
 			- Lacks structure for some projects 
-4. **Zendesk** https://www.zendesk.com/
+5. **Zendesk** https://www.zendesk.com/
 		- Why does it work well?
 			- No code-tools
 			- Automatically assigns tickets to right reps
