@@ -159,4 +159,4 @@ What Already Exists:
 # Data Interpretation
 ##### Data Interpretation Approach
 [[	Empathy Map on Figma with a mix of Affinity Diagramming]]
-		- Link: 
+		- Link: https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?t=lH8eTZCQpcUQHqdf-6
