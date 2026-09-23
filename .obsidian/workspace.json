@@ -6,7 +6,7 @@
       {
         "id": "9c946229ac9c3643",
         "type": "tabs",
-        "dimension": 61.87766714082503,
+        "dimension": 69.28934010152284,
         "children": [
           {
             "id": "0388b69fc432dbbb",
@@ -27,7 +27,7 @@
       {
         "id": "a6d60ee1a5c4b35a",
         "type": "tabs",
-        "dimension": 38.12233285917496,
+        "dimension": 30.710659898477154,
         "children": [
           {
             "id": "b24da73c8eb33913",
@@ -203,9 +203,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b24da73c8eb33913",
+  "active": "0388b69fc432dbbb",
   "lastOpenFiles": [
+    "Pasted image 20260923181442.png",
+    "Design Journal 498/images/Artivault_Logos.svg",
     "Design Journal 498/Design Journal - 498 - Interface Design.md",
+    "Design Journal 498/Artivault_Logos.svg",
+    "Artivault_Logos.svg",
     "Design Journal 498/At a Glance Overview from Company's Description Document.md"
   ]
 }

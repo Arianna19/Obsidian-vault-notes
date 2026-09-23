@@ -8,6 +8,7 @@ Topic Selection : Production Project : ARTIVAULT (B2B)
 ![[B2B_track_Description.png]]
 
 [[At a Glance Overview from Company's Description Document]]
+
 # Design Pillars 
 
 1. Usefulness
@@ -173,15 +174,30 @@ What Already Exists:
 ##### Important to Remember to this date from Artivault Sales, Dev and Product Manager
 
 1. Sales:
-		1. Prospects are asking for a dense master table (overview) where users can view artifact records with custom sorting and filters for medium, location, and acquisition date.
+		1. Prospects are asking for a dense master table (overview) where users can view artifact records with custom sorting and filters for medium, location, and acquisition date;
 		2. A major museum director is comparing us to legacy software. Their team requires multi-row selection with a header export button to quickly export filtered grid selections as custom PDF sheets or CSV manifests. Staff also need to stack filter rules (e.g., acquisition dates, gallery wings, conservation status) and save these setups as Custom View Presets to avoid rebuilding search queries daily. Like: Acquired 2018-2020 AND Wing B AND Condition: Good
 2. Dev: 
-		1. Do not think of live auto-refresh! It kills performance. Include a manual refresh button with a 'Last Synced' timestamp in the table header
+		1. Do not think of live auto-refresh! It kills performance. Include a manual refresh button with a 'Last Synced' timestamp in the table header;
 		2. Performing batch edits or exports on 5,000 records simultaneously results in browser freezing! Cap row selection at 50 items per operation, and introduce pagination choices (25, 50, or 100 items per view) to prevent rendering entire record sets within the web page.
 3. Product Manager
-		1. We need an urgent triage feed to log damage tickets with severity tags (Low, Moderate, Critical) so alerts sit clearly apart from normal inventory.
+		1. We need an urgent triage feed to log damage tickets with severity tags (Low, Moderate, Critical) so alerts sit clearly apart from normal inventory;
 		2. When users select an item from the grid, route them directly into a dedicated artifact detail page. Conservators and registrars need an exhaustive view showing high-resolution imagery, descriptive cataloging data, and related condition logs in one unified layout.
+
 # List of Detailed Features
 ##### Links to user flow
 [[	User Flow on Figma]]
 		-  Link: https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?node-id=17-1991&t=s9MU6RfQtC61Ij55-4
+
+##### Wireframing Prototype 1 (2026-09-29)
+Focus: 
+		1. General view: Search screen, Create Damage Ticket screen, Collection Overview screen;
+		2. Ticketing management: (Critical, Moderate, Low);
+		3. Two users were focused on: Santiago and Bryton.
+
+Key Factors and Reasoning Behind: 
+- Searching and filtering have a "personalized preset" option
+		- Why?
+			- Noticed how users from other ticketing/incident platforms highly dislike having to search for new elements every time.
+			- Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things. https://www.heurio.co/don-norman-principles-of-design
+			- Personal main inspiration was while playing the video game *Palworld, there's a rotation preset option for the Pals* in your inventory which I found practical, quick and easy to use. 
+			![[Pasted image 20260923181442.png]]
