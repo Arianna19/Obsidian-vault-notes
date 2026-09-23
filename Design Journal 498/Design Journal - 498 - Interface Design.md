@@ -212,7 +212,7 @@ Focus:
 3. Two users were focused on: Santiago and Bryton.
 
 Key Factors and Reasoning Behind: 
-- Searching and filtering have a "personalized preset" option  
+###### - Searching and filtering have a "personalized preset" option  
 
  Why?   
  
@@ -223,7 +223,7 @@ Key Factors and Reasoning Behind:
 	
 [[presetExample_Palworld.webp]]    
 
-- "Damage Ticket" page creation  
+###### - "Damage Ticket" page creation  
 
 Why?    
 
@@ -231,7 +231,7 @@ Why?
 2. Encountered in many user flows 
 3. Added a reward system: many ticketing platforms don't reward users or add satisfaction elements. This was added to stand out from other platforms. Also based self off of Don Norman's feedback criterion (shows the users they're getting somewhere).  
 
-- "Quick Overview board" page creation  
+###### - "Quick Overview board" page creation  
 
 Why?  
 
