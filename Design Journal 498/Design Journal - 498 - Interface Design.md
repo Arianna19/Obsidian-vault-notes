@@ -109,7 +109,8 @@ Why does it work well?
 -  Omnichannel: works with email, chat
 			- Option for customers to send photos, videos and audio not just text
 			- Integrates with other tools: Slack real-time collab  
-Why it doesn't work well
+Why it doesn't work well?  
+
 - Clunky user experience
 - Non-intuitive layout
 - Really expensive
@@ -118,13 +119,15 @@ Why it doesn't work well
 
 2. **Zoho** https://www.zoho.com/
 Why does it work well?  
+
 - Users can merge, clone and split tickets 
 - Self service capabilities 
 - Omnichannel
 - Dashboard customization: customers can design personalized dashboards
 -  Multilingual help desk
 - Integrates with other tools: Can be enhanced with ChatGpt
-Why it doesn't work well  
+Why it doesn't work well?  
+
 -  Inconsistent navigation and workflow 
 - Doesn't integrate smoothly 
 - Steep learning curve and clunky UI/NO ICONS
@@ -133,12 +136,14 @@ Why it doesn't work well
 
 2. **Slack** https://slack.com/ 
 Why does it work well?  
+
 - Flexible: internal support, communication and customer support
 - Collaboration 
 - Very easy to use
 - Can be integrated with a lot of CRM, project management tools
 - Automation is available: Custom bot commands 
-Why it doesn't work well  
+Why it doesn't work well?  
+
 - Notification overload which increases distractions and decreases productivity 
 - Buried information in chats
 - Toxic availability makes people respond immediately 
@@ -146,12 +151,14 @@ Why it doesn't work well
 
 4. **Zendesk** https://www.zendesk.com/
 Why does it work well?  
+
 - No code-tools
 - Automatically assigns tickets to right reps
 - Prebuilt customizable ticketing workflows
 - Powerful automations
 - Integration with other tools: For analytics, reporting, time tracking
 Why it doesn't work well?  
+
 - Expensive tiers 
 - Add-on fees: specific integration, ai features
 - Clunky interface
