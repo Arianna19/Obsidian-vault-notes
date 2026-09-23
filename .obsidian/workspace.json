@@ -6,10 +6,10 @@
       {
         "id": "9c946229ac9c3643",
         "type": "tabs",
-        "dimension": 82.10659898477158,
+        "dimension": 68.84517766497463,
         "children": [
           {
-            "id": "0388b69fc432dbbb",
+            "id": "eb977bbc826d9f94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,12 +25,12 @@
         ]
       },
       {
-        "id": "a6d60ee1a5c4b35a",
+        "id": "a9cfa10b80b29e00",
         "type": "tabs",
-        "dimension": 17.893401015228427,
+        "dimension": 31.15482233502538,
         "children": [
           {
-            "id": "b24da73c8eb33913",
+            "id": "0388b69fc432dbbb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -203,9 +203,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "b24da73c8eb33913",
+  "active": "eb977bbc826d9f94",
   "lastOpenFiles": [
+    "README.md",
     "Design Journal 498/Design Journal - 498 - Interface Design.md",
+    "User Flow on Figma.md",
     "Design Journal 498/images/presetExample_Palworld.webp",
     "Pasted image 20260923181442.png",
     "Design Journal 498/images/Unconfirmed 326386.crdownload",

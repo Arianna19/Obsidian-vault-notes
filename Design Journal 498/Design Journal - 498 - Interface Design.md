@@ -202,7 +202,7 @@ Why it doesn't work well?
 
 # List of Detailed Features
 ##### Links to user flow
-[[	User Flow on Figma]] 
+[[	User Flow on Figma]]  
 		-  Link: https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?node-id=17-1991&t=s9MU6RfQtC61Ij55-4
 
 ##### Wireframing Prototype 1 (2026-09-29)
