@@ -106,7 +106,7 @@ What Already Exists:
 Why does it work well?
 	- `Automates routing` 
 	- `Uses AI to categorize, prioritize and resolve` 
--  `Omnichannel: works with email, chat`
+	-  `Omnichannel: works with email, chat`
 			`- Option for customers to send photos, videos and audio not just text`
 			`- Integrates with other tools: Slack real-time collab`  
 
