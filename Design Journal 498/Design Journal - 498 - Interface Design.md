@@ -102,13 +102,13 @@ Create a clear and user-friendly platform that helps museums manage their collec
 
 What Already Exists: 
 1. **SalesForce** https://www.salesforce.com/ca/
-###### Why does it work well?
+Why does it work well?
 - Automates routing 
 - Uses AI to categorize, prioritize and resolve 
 -  Omnichannel: works with email, chat
 			- Option for customers to send photos, videos and audio not just text
 			- Integrates with other tools: Slack real-time collab 
-###### Why it doesn't work well
+Why it doesn't work well
 - Clunky user experience
 - Non-intuitive layout
 - Really expensive
@@ -116,40 +116,41 @@ What Already Exists:
 - Complicated: too much customization and messy configurations
 
 2. **Zoho** https://www.zoho.com/
-###### Why does it work well?
+Why does it work well?
 - Users can merge, clone and split tickets 
 - Self service capabilities 
 - Omnichannel
 - Dashboard customization: customers can design personalized dashboards
 -  Multilingual help desk
 - Integrates with other tools: Can be enhanced with ChatGpt
-###### Why it doesn't work well
+Why it doesn't work well
 -  Inconsistent navigation and workflow 
 - Doesn't integrate smoothly 
 - Steep learning curve and clunky UI/NO ICONS
 - Dated and overwhelming
 -  Multiple nested settings menus 
 
-3. **Slack** https://slack.com/ Why does it work well?
+2. **Slack** https://slack.com/ 
+Why does it work well?
 - Flexible: internal support, communication and customer support
 - Collaboration 
 - Very easy to use
 - Can be integrated with a lot of CRM, project management tools
 - Automation is available: Custom bot commands 
-###### Why it doesn't work well
+Why it doesn't work well
 - Notification overload which increases distractions and decreases productivity 
 - Buried information in chats
 - Toxic availability makes people respond immediately 
 - Lacks structure for some projects 
 
 4. **Zendesk** https://www.zendesk.com/
-###### Why does it work well?
+Why does it work well?
 - No code-tools
 - Automatically assigns tickets to right reps
 - Prebuilt customizable ticketing workflows
 - Powerful automations
 - Integration with other tools: For analytics, reporting, time tracking
-###### Why it doesn't work well
+Why it doesn't work well
 - Expensive tiers 
 - Add-on fees: specific integration, ai features
 - Clunky interface
@@ -174,14 +175,14 @@ What Already Exists:
 ##### Important to Remember to this date from Artivault Sales, Dev and Product Manager
 
 1. Sales:
-		1. Prospects are asking for a dense master table (overview) where users can view artifact records with custom sorting and filters for medium, location, and acquisition date;
-		2. A major museum director is comparing us to legacy software. Their team requires multi-row selection with a header export button to quickly export filtered grid selections as custom PDF sheets or CSV manifests. Staff also need to stack filter rules (e.g., acquisition dates, gallery wings, conservation status) and save these setups as Custom View Presets to avoid rebuilding search queries daily. Like: Acquired 2018-2020 AND Wing B AND Condition: Good
+		<ul>1. Prospects are asking for a dense master table (overview) where users can view artifact records with custom sorting and filters for medium, location, and acquisition date; </ul>
+		<ul> 2. A major museum director is comparing us to legacy software. Their team requires multi-row selection with a header export button to quickly export filtered grid selections as custom PDF sheets or CSV manifests. Staff also need to stack filter rules (e.g., acquisition dates, gallery wings, conservation status) and save these setups as Custom View Presets to avoid rebuilding search queries daily. Like: Acquired 2018-2020 AND Wing B AND Condition: Good </ul>
 2. Dev: 
-		1. Do not think of live auto-refresh! It kills performance. Include a manual refresh button with a 'Last Synced' timestamp in the table header;
-		2. Performing batch edits or exports on 5,000 records simultaneously results in browser freezing! Cap row selection at 50 items per operation, and introduce pagination choices (25, 50, or 100 items per view) to prevent rendering entire record sets within the web page.
+		<ul> 1. Do not think of live auto-refresh! It kills performance. Include a manual refresh button with a 'Last Synced' timestamp in the table header; </ul>
+		<ul> 2. Performing batch edits or exports on 5,000 records simultaneously results in browser freezing! Cap row selection at 50 items per operation, and introduce pagination choices (25, 50, or 100 items per view) to prevent rendering entire record sets within the web page. </ul>
 3. Product Manager
-		1. We need an urgent triage feed to log damage tickets with severity tags (Low, Moderate, Critical) so alerts sit clearly apart from normal inventory;
-		2. When users select an item from the grid, route them directly into a dedicated artifact detail page. Conservators and registrars need an exhaustive view showing high-resolution imagery, descriptive cataloging data, and related condition logs in one unified layout.
+		<ul> 1. We need an urgent triage feed to log damage tickets with severity tags (Low, Moderate, Critical) so alerts sit clearly apart from normal inventory; </ul>
+		<ul> 2. When users select an item from the grid, route them directly into a dedicated artifact detail page. Conservators and registrars need an exhaustive view showing high-resolution imagery, descriptive cataloging data, and related condition logs in one unified layout. </ul>
 
 # List of Detailed Features
 ##### Links to user flow
@@ -198,7 +199,7 @@ Key Factors and Reasoning Behind:
 - Searching and filtering have a "personalized preset" option
 		<li> Why? </li>
 			<ul> 
-			<li> - Noticed how users from other ticketing/incident platforms highly dislike having to search for new elements every time. </li>
-			<li> - Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things. https://www.heurio.co/don-norman-principles-of-design </li>
+			<li> Noticed how users from other ticketing/incident platforms highly dislike having to search for new elements every time. </li>
+			<li> Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things. https://www.heurio.co/don-norman-principles-of-design </li>
 			<li> - Personal main inspiration was while playing the video game *Palworld, there's a rotation preset option for the Pals* in your inventory which I found practical, quick and easy to use. </li>
 			[[presetExample_Palworld.webp]] </ul>
