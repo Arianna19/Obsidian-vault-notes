@@ -168,14 +168,20 @@ What Already Exists:
 ##### Features important to test (3)
 	1. Damage sorting/severity levels
 	2. Filtering systems for searching artwork
-	3. ersonalization keys for case by case situations 
+	3. Personalization keys for case by case situations 
 
+##### Important to Remember to this date from Artivault Sales, Dev and Product Manager
+
+1. Sales:
+		1. Prospects are asking for a dense master table (overview) where users can view artifact records with custom sorting and filters for medium, location, and acquisition date.
+		2. A major museum director is comparing us to legacy software. Their team requires multi-row selection with a header export button to quickly export filtered grid selections as custom PDF sheets or CSV manifests. Staff also need to stack filter rules (e.g., acquisition dates, gallery wings, conservation status) and save these setups as Custom View Presets to avoid rebuilding search queries daily. Like: Acquired 2018-2020 AND Wing B AND Condition: Good
+2. Dev: 
+		1. Do not think of live auto-refresh! It kills performance. Include a manual refresh button with a 'Last Synced' timestamp in the table header
+		2. Performing batch edits or exports on 5,000 records simultaneously results in browser freezing! Cap row selection at 50 items per operation, and introduce pagination choices (25, 50, or 100 items per view) to prevent rendering entire record sets within the web page.
+3. Product Manager
+		1. We need an urgent triage feed to log damage tickets with severity tags (Low, Moderate, Critical) so alerts sit clearly apart from normal inventory.
+		2. When users select an item from the grid, route them directly into a dedicated artifact detail page. Conservators and registrars need an exhaustive view showing high-resolution imagery, descriptive cataloging data, and related condition logs in one unified layout.
 # List of Detailed Features
 ##### Links to user flow
 [[	User Flow on Figma]]
 		-  Link: https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?node-id=17-1991&t=s9MU6RfQtC61Ij55-4
-##### Links to wireframes
-- User 1: Ashmine "Spread Sheet Strawfiler": 
-- User 2: Bryton "Apple Facto"
-- User 3: Santiago "The Ticking Cherrybomber"
-- User 4: Alexis "Salassistant"
