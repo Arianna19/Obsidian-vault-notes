@@ -216,11 +216,11 @@ Key Factors and Reasoning Behind:
 
  Why?   
  
-	 1. Noticed how users from other ticketing/incident platforms highly dislike having to search for new elements every time.
-	 2. Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things.  
+1. Noticed how users from other ticketing/incident platforms highly dislike having to search for new elements every time.
+2. . Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things.  
 [https://www.heurio.co/don-norman-principles-of-design](https://www.heurio.co/don-norman-principles-of-design)
-	 `3. Personal main inspiration was while playing the video game _Palworld, there's a rotation preset option for the Pals_ in your inventory which I found practical, quick and easy to use.`  
-
+3.  Personal main inspiration was while playing the video game _Palworld, there's a rotation preset option for the Pals_ in your inventory which I found practical, quick and easy to use.`  
+	
 [[presetExample_Palworld.webp]]    
 
 - "Damage Ticket Page" creation
