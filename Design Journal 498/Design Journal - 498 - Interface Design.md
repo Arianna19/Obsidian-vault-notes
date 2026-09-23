@@ -102,13 +102,13 @@ Create a clear and user-friendly platform that helps museums manage their collec
 
 What Already Exists: 
 1. **SalesForce** https://www.salesforce.com/ca/
-<ul> Why does it work well? </ul>
+Why does it work well?
 - Automates routing 
 - Uses AI to categorize, prioritize and resolve 
 -  Omnichannel: works with email, chat
 			- Option for customers to send photos, videos and audio not just text
 			- Integrates with other tools: Slack real-time collab 
-<ul> Why it doesn't work well </ul>
+Why it doesn't work well
 - Clunky user experience
 - Non-intuitive layout
 - Really expensive
@@ -116,14 +116,14 @@ What Already Exists:
 - Complicated: too much customization and messy configurations
 
 2. **Zoho** https://www.zoho.com/
-<ul> Why does it work well? </ul>
+Why does it work well?
 - Users can merge, clone and split tickets 
 - Self service capabilities 
 - Omnichannel
 - Dashboard customization: customers can design personalized dashboards
 -  Multilingual help desk
 - Integrates with other tools: Can be enhanced with ChatGpt
-<ul> Why it doesn't work well </ul>
+Why it doesn't work well
 -  Inconsistent navigation and workflow 
 - Doesn't integrate smoothly 
 - Steep learning curve and clunky UI/NO ICONS
@@ -131,26 +131,26 @@ What Already Exists:
 -  Multiple nested settings menus 
 
 2. **Slack** https://slack.com/ 
-<ul> Why does it work well? </ul>
+Why does it work well?
 - Flexible: internal support, communication and customer support
 - Collaboration 
 - Very easy to use
 - Can be integrated with a lot of CRM, project management tools
 - Automation is available: Custom bot commands 
-<ul> Why it doesn't work well </ul>
+Why it doesn't work well
 - Notification overload which increases distractions and decreases productivity 
 - Buried information in chats
 - Toxic availability makes people respond immediately 
 - Lacks structure for some projects 
 
 4. **Zendesk** https://www.zendesk.com/
-<ul> Why does it work well? </ul>
+Why does it work well?
 - No code-tools
 - Automatically assigns tickets to right reps
 - Prebuilt customizable ticketing workflows
 - Powerful automations
 - Integration with other tools: For analytics, reporting, time tracking
-<ul> Why it doesn't work well </ul>
+Why it doesn't work well?
 - Expensive tiers 
 - Add-on fees: specific integration, ai features
 - Clunky interface
@@ -197,7 +197,7 @@ Focus:
 
 Key Factors and Reasoning Behind: 
 - Searching and filtering have a "personalized preset" option
-		<li> Why? </li>
+ Why? 
 - Noticed how users from other ticketing/incident platforms highly dislike having to search for new elements every time.
 - Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things. [https://www.heurio.co/don-norman-principles-of-design](https://www.heurio.co/don-norman-principles-of-design)
 - Personal main inspiration was while playing the video game _Palworld, there's a rotation preset option for the Pals_ in your inventory which I found practical, quick and easy to use.
