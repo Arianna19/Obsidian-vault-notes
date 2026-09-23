@@ -101,7 +101,8 @@ Create a clear and user-friendly platform that helps museums manage their collec
 # Research
 
 What Already Exists: 
-1. **SalesForce** https://www.salesforce.com/ca/
+1. **SalesForce** https://www.salesforce.com/ca/  
+
 Why does it work well?
 - Automates routing 
 - Uses AI to categorize, prioritize and resolve 
