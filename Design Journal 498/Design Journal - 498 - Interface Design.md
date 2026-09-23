@@ -202,7 +202,7 @@ Why it doesn't work well?
 
 # List of Detailed Features
 ##### Links to user flow
-[[	User Flow on Figma]]
+[[	User Flow on Figma]] 
 		-  Link: https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?node-id=17-1991&t=s9MU6RfQtC61Ij55-4
 
 ##### Wireframing Prototype 1 (2026-09-29)
@@ -223,4 +223,18 @@ Key Factors and Reasoning Behind:
 	
 [[presetExample_Palworld.webp]]    
 
-- "Damage Ticket Page" creation
+- "Damage Ticket" page creation  
+
+Why?    
+
+1. Main concern of the project 
+2. Encountered in many user flows 
+3. Added a reward system: many ticketing platforms don't reward users or add satisfaction elements. This was added to stand out from other platforms. Also based self off of Don Norman's feedback criterion (shows the users they're getting somewhere).  
+
+- "Quick Overview board" page creation  
+
+Why?  
+
+1. Considering managerial positions (User flow: Santiago)
+2. Quickly glance at the state of the museums inventory 
+3. Users don't have to search for information
