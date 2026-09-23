@@ -22,11 +22,11 @@ Topic Selection : Production Project : ARTIVAULT (B2B)
 Chosen Design Pillars
 
 <li>  Based off of the project requirements the main pillars (3) that I'll be focusing on for a successful platform for Artivault are: </li>
-			<ul> **Usefulness**: Does the product solve a real problem? </ul>
-			<ul> **Usability**: Can users accomplish goals efficiently? </ul>
-			<ul> **Findability**: Can users locate what they need? </ul>
-			<ul> *Credibility: Do users trust you product 
-			%%This last pillar is a subcategory that will also greatly influence the platform's success rate.%% </ul>
+			<ul> Usefulness: Does the product solve a real problem? </ul>
+			<ul> Usability: Can users accomplish goals efficiently? </ul>
+			<ul> Findability: Can users locate what they need? </ul>
+			<ul> Credibility: Do users trust you product 
+			(This last pillar is a subcategory that will also greatly influence the platform's success rate.) </ul>
 
 ##### Usefulness
 - Make sure a problem is solved 
