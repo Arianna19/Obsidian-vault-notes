@@ -190,14 +190,14 @@ What Already Exists:
 
 ##### Wireframing Prototype 1 (2026-09-29)
 Focus: 
-		1. General view: Search screen, Create Damage Ticket screen, Collection Overview screen;
-		2. Ticketing management: (Critical, Moderate, Low);
-		3. Two users were focused on: Santiago and Bryton.
+1. General view: Search screen, Create Damage Ticket screen, Collection Overview screen;
+2. Ticketing management: (Critical, Moderate, Low);
+3. Two users were focused on: Santiago and Bryton.
 
 Key Factors and Reasoning Behind: 
 - Searching and filtering have a "personalized preset" option
 		- Why?
-			- Noticed how users from other ticketing/incident platforms highly dislike having to search for new elements every time.
-			- Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things. https://www.heurio.co/don-norman-principles-of-design
-			- Personal main inspiration was while playing the video game *Palworld, there's a rotation preset option for the Pals* in your inventory which I found practical, quick and easy to use. 
+			Noticed how users from other ticketing/incident platforms highly dislike having to search for new elements every time.
+			Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things. https://www.heurio.co/don-norman-principles-of-design
+			Personal main inspiration was while playing the video game *Palworld, there's a rotation preset option for the Pals* in your inventory which I found practical, quick and easy to use. 
 			[[presetExample_Palworld.webp]]
