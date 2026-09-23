@@ -117,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Journal 498/Design Journal - 498 - Interface Design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Journal 498/Design Journal - 498 - Interface Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -179,7 +177,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Journal 498/Design Journal - 498 - Interface Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,7 +203,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0388b69fc432dbbb",
+  "active": "b24da73c8eb33913",
   "lastOpenFiles": [
     "Design Journal 498/Design Journal - 498 - Interface Design.md",
     "Design Journal 498/At a Glance Overview from Company's Description Document.md"
