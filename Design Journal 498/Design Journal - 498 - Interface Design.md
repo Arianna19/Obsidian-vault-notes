@@ -105,77 +105,77 @@ What Already Exists:
 
 Why does it work well?  
 
-	- Automates routing 
-	- Uses AI to categorize, prioritize and resolve 
-	-  Omnichannel: works with email, chat
-	- Option for customers to send photos, videos and audio not just text
-- Integrates with other tools: Slack real-time collab`  
+	- Automates routing; 
+	- Uses AI to categorize, prioritize and resolve; 
+	-  Omnichannel: works with email, chat;
+	- Option for customers to send photos, videos and audio not just text;
+	- Integrates with other tools: Slack real-time collab.  
 
 Why it doesn't work well?  
 
-	- Clunky user experience
-	- Non-intuitive layout
-	- Really expensive
-	- Need extra tools to make it work sometimes
-	- Complicated: too much customization and messy configurations
+	- Clunky user experience;
+	- Non-intuitive layout;
+	- Really expensive;
+	- Need extra tools to make it work sometimes;
+	- Complicated: too much customization and messy configurations.
 
 2. **Zoho** https://www.zoho.com/  
 
 Why does it work well?  
 
-	- Users can merge, clone and split tickets 
-	- Self service capabilities 
-	- Omnichannel
-	- Dashboard customization: customers can design personalized dashboards
-	-  Multilingual help desk
-	- Integrates with other tools: Can be enhanced with ChatGpt  
+	- Users can merge, clone and split tickets;
+	- Self service capabilities;
+	- Omnichannel;
+	- Dashboard customization: customers can design personalized dashboards;
+	-  Multilingual help desk;
+	- Integrates with other tools: Can be enhanced with ChatGpt. 
 
 Why it doesn't work well?  
 
-	-  Inconsistent navigation and workflow 
-	- Doesn't integrate smoothly` 
-	- Steep learning curve and clunky UI/NO ICONS
-	- Dated and overwhelming
-	-  Multiple nested settings menus 
+	-  Inconsistent navigation and workflow; 
+	- Doesn't integrate smoothly; 
+	- Steep learning curve and clunky UI/NO ICONS;
+	- Dated and overwhelming;
+	-  Multiple nested settings menus. 
 
 3. **Slack** https://slack.com/  
 
 Why does it work well?  
 
-	- Flexible: internal support, communication and customer support
-	- Collaboration 
-	- Very easy to use
-	- Can be integrated with a lot of CRM, project management tools
-	- Automation is available: Custom bot commands  
+	- Flexible: internal support, communication and customer support;
+	- Collaboration; 
+	- Very easy to use;
+	- Can be integrated with a lot of CRM, project management tools;
+	- Automation is available: Custom bot.
 
 Why it doesn't work well?  
 
-	- Notification overload which increases distractions and decreases productivity 
-	- Buried information in chats
-	- Toxic availability makes people respond immediately 
+	- Notification overload which increases distractions and decreases productivity; 
+	- Buried information in chats;
+	- Toxic availability makes people respond immediately; 
 	- Lacks structure for some projects 
 
 4. **Zendesk** https://www.zendesk.com/  
 
 Why does it work well?  
 
-	- No code-tools`
-	- Automatically assigns tickets to right reps
-	- Prebuilt customizable ticketing workflows
-	- Powerful automations
-	- Integration with other tools: For analytics, reporting, time tracking  
+	- No code-tools;
+	- Automatically assigns tickets to right reps;
+	- Prebuilt customizable ticketing workflows;
+	- Powerful automations;
+	- Integration with other tools: For analytics, reporting, time tracking.  
 
 Why it doesn't work well?  
 
-	- Expensive tiers 
-	- Add-on fees: specific integration, ai features
-	- Clunky interface
-	- ated and disjointed UI: Aging interface doesn't keep up with modern design
-	- Configuration menus deeply buried 
-	- Lengthy setup onboarding takes months and needs a technical specialist
-	- Difficulty customizing data
-	- No direct comment referencing in tickets and can't take notes
-	- Reporting limitations
+	- Expensive tiers; 
+	- Add-on fees: specific integration, ai features;
+	- Clunky interface;
+	- ated and disjointed UI: Aging interface doesn't keep up with modern design;
+	- Configuration menus deeply buried ;
+	- Lengthy setup onboarding takes months and needs a technical specialist;
+	- Difficulty customizing data;
+	- No direct comment referencing in tickets and can't take notes;
+	- Reporting limitations.
 
 # User Assumptions/Data Interpretation
 ##### Data Interpretation Approach
@@ -184,9 +184,9 @@ Why it doesn't work well?
 
 # List of Key Features
 ##### Features important to test (3)
-	1. Damage sorting/severity levels
-	2. Filtering systems for searching artwork
-	3. Personalization keys for case by case situations 
+	1. Damage sorting/severity levels;
+	2. Filtering systems for searching artwork;
+	3. Personalization keys for case by case situations. 
 
 ##### Important to Remember to this date from Artivault Sales, Dev and Product Manager
 
@@ -207,17 +207,17 @@ Why it doesn't work well?
 
 ##### Wireframing Prototype 1 (2026-09-29)
 Focus: 
-1. General view: Search screen, Create Damage Ticket screen, Collection Overview screen;
-2. Ticketing management: (Critical, Moderate, Low);
-3. Two users were focused on: Santiago and Bryton.
+1. `General view: Search screen, Create Damage Ticket screen, Collection Overview screen;`
+2. `Ticketing management: (Critical, Moderate, Low);`
+3. `Two users were focused on: Santiago and Bryton.`
 
 Key Factors and Reasoning Behind: 
 ###### - Searching and filtering have a "personalized preset" option  
 
  Why?   
  
-1. Noticed how users from other ticketing/incident platforms highly dislike having to search for new elements every time.
-2. . Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things.  
+1. Noticed how users from other ticketing/incident platforms highly dislike having to search for new elements every time;
+2. . Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things;
 [https://www.heurio.co/don-norman-principles-of-design](https://www.heurio.co/don-norman-principles-of-design)
 3.  Personal main inspiration was while playing the video game _Palworld, there's a rotation preset option for the Pals_ in your inventory which I found practical, quick and easy to use.`  
 	
@@ -227,14 +227,14 @@ Key Factors and Reasoning Behind:
 
 Why?    
 
-1. Main concern of the project 
-2. Encountered in many user flows 
+1. Main concern of the project;
+2. Encountered in many user flows; 
 3. Added a reward system: many ticketing platforms don't reward users or add satisfaction elements. This was added to stand out from other platforms. Also based self off of Don Norman's feedback criterion (shows the users they're getting somewhere).  
 
 ###### - "Quick Overview board" page creation  
 
 Why?  
 
-1. Considering managerial positions (User flow: Santiago)
-2. Quickly glance at the state of the museums inventory 
-3. Users don't have to search for information
+1. Considering managerial positions (User flow: Santiago);
+2. Quickly glance at the state of the museums inventory;
+3. Users don't have to search for information.
