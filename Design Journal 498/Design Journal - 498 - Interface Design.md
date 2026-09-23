@@ -21,12 +21,12 @@ Topic Selection : Production Project : ARTIVAULT (B2B)
 
 Chosen Design Pillars
 
-- Based off of the project requirements the main pillars (3) that I'll be focusing on for a successful platform for Artivault are:
-			- **Usefulness**: Does the product solve a real problem?
-			- **Usability**: Can users accomplish goals efficiently?
-			- **Findability**: Can users locate what they need? 
-			-  *Credibility: Do users trust you product 
-			%%This last pillar is a subcategory that will also greatly influence the platform's success rate.%%
+<li>  Based off of the project requirements the main pillars (3) that I'll be focusing on for a successful platform for Artivault are: </li>
+			<ul> **Usefulness**: Does the product solve a real problem? </ul>
+			<ul> **Usability**: Can users accomplish goals efficiently? </ul>
+			<ul> **Findability**: Can users locate what they need? </ul>
+			<ul> *Credibility: Do users trust you product 
+			%%This last pillar is a subcategory that will also greatly influence the platform's success rate.%% </ul>
 
 ##### Usefulness
 - Make sure a problem is solved 
@@ -102,13 +102,13 @@ Create a clear and user-friendly platform that helps museums manage their collec
 
 What Already Exists: 
 1. **SalesForce** https://www.salesforce.com/ca/
-Why does it work well?
+<ul> Why does it work well? </ul>
 - Automates routing 
 - Uses AI to categorize, prioritize and resolve 
 -  Omnichannel: works with email, chat
 			- Option for customers to send photos, videos and audio not just text
 			- Integrates with other tools: Slack real-time collab 
-Why it doesn't work well
+<ul> Why it doesn't work well </ul>
 - Clunky user experience
 - Non-intuitive layout
 - Really expensive
@@ -116,14 +116,14 @@ Why it doesn't work well
 - Complicated: too much customization and messy configurations
 
 2. **Zoho** https://www.zoho.com/
-Why does it work well?
+<ul> Why does it work well? </ul>
 - Users can merge, clone and split tickets 
 - Self service capabilities 
 - Omnichannel
 - Dashboard customization: customers can design personalized dashboards
 -  Multilingual help desk
 - Integrates with other tools: Can be enhanced with ChatGpt
-Why it doesn't work well
+<ul> Why it doesn't work well </ul>
 -  Inconsistent navigation and workflow 
 - Doesn't integrate smoothly 
 - Steep learning curve and clunky UI/NO ICONS
@@ -131,26 +131,26 @@ Why it doesn't work well
 -  Multiple nested settings menus 
 
 2. **Slack** https://slack.com/ 
-Why does it work well?
+<ul> Why does it work well? </ul>
 - Flexible: internal support, communication and customer support
 - Collaboration 
 - Very easy to use
 - Can be integrated with a lot of CRM, project management tools
 - Automation is available: Custom bot commands 
-Why it doesn't work well
+<ul> Why it doesn't work well </ul>
 - Notification overload which increases distractions and decreases productivity 
 - Buried information in chats
 - Toxic availability makes people respond immediately 
 - Lacks structure for some projects 
 
 4. **Zendesk** https://www.zendesk.com/
-Why does it work well?
+<ul> Why does it work well? </ul>
 - No code-tools
 - Automatically assigns tickets to right reps
 - Prebuilt customizable ticketing workflows
 - Powerful automations
 - Integration with other tools: For analytics, reporting, time tracking
-Why it doesn't work well
+<ul> Why it doesn't work well </ul>
 - Expensive tiers 
 - Add-on fees: specific integration, ai features
 - Clunky interface
