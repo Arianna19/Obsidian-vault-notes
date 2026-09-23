@@ -5,7 +5,7 @@ Topic Selection : Production Project : ARTIVAULT (B2B)
 
 - I chose to go with Track 1 being Artivault because it's a design challenge I've never faced in the passed before. I mainly specialized in Business to Customer challenges in the past and I'm taking this opportunity to create a Business to Business design. By doing so I'm also envisioning this design to contribute to my overall portfolio for future employment. Overall, this choice was made to solely step out of my comfort zone as a designer. 
 
-![[B2B_track_Description.png]]
+[[B2B_track_Description.png]]
 
 [[At a Glance Overview from Company's Description Document]]
 
@@ -200,4 +200,4 @@ Key Factors and Reasoning Behind:
 			- Noticed how users from other ticketing/incident platforms highly dislike having to search for new elements every time.
 			- Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things. https://www.heurio.co/don-norman-principles-of-design
 			- Personal main inspiration was while playing the video game *Palworld, there's a rotation preset option for the Pals* in your inventory which I found practical, quick and easy to use. 
-			![[Pasted image 20260923181442.png]]
+			[[presetExample_Palworld.webp]]
