@@ -220,6 +220,7 @@ Key Factors and Reasoning Behind:
 2. . Following Don Norman's Principles about visibility, users dislike having to redo things or start again. The human brain typically follows the easiest way to do things;
 [https://www.heurio.co/don-norman-principles-of-design](https://www.heurio.co/don-norman-principles-of-design)
 3.  Personal main inspiration was while playing the video game _Palworld, there's a rotation preset option for the Pals_ in your inventory which I found practical, quick and easy to use.`  
+4. Doing this preset save option makes it that every user has to have a personal profile now which ads need for a login page
 	
 [[presetExample_Palworld.webp]]    
 
@@ -238,3 +239,12 @@ Why?
 1. Considering managerial positions (User flow: Santiago);
 2. Quickly glance at the state of the museums inventory;
 3. Users don't have to search for information.
+
+###### - "Urgent Damage Triage" window creation  
+
+Why?    
+
+1. Specific request from product manager;
+2. Able to minimize this window to help with information overload; 
+3. The window doesn't leave the screen only gets smaller for users to find it easily;
+4. Similar to chat boxes on websites so that the users are familiar with the way it works. 
