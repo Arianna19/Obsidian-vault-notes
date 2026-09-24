@@ -209,7 +209,9 @@ Why it doesn't work well?
 Focus: 
 1. `General view: Search screen, Create Damage Ticket screen, Collection Overview screen;`
 2. `Ticketing management: (Critical, Moderate, Low);`
-3. `Two users were focused on: Santiago and Bryton.`
+3. `Two users were focused on: Santiago and Bryton.`  
+
+*All icons are placeholders, assets will be thought about at the very last stage due to it being a very low priority for now. Data organization and filtering as well as customisation are the main issues*
 
 Key Factors and Reasoning Behind: 
 ###### - Searching and filtering have a "personalized preset" option  
@@ -247,4 +249,4 @@ Why?
 1. Specific request from product manager;
 2. Able to minimize this window to help with information overload; 
 3. The window doesn't leave the screen only gets smaller for users to find it easily;
-4. Similar to chat boxes on websites so that the users are familiar with the way it works. 
+4. Similar to chat boxes on websites so that the users are familiar with the way it works.
