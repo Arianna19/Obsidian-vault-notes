@@ -250,3 +250,14 @@ Why?
 2. Able to minimize this window to help with information overload; 
 3. The window doesn't leave the screen only gets smaller for users to find it easily;
 4. Similar to chat boxes on websites so that the users are familiar with the way it works.
+
+###### - "Artifact detail page" window creation  
+
+Why?    
+
+1. When selected from collection overview page the user is directed to the page;
+2. Has easy view for log history good and bad of the artifact and separate to filter just the incidents;
+3. Quick actions menu that can be done to the detail page for users;
+4. Good tagging methods for easily searching the artifact in the collections overview page;
+5. Users are allowed to add personal notes;
+6. Details and history of artifact available at an easy glance.
