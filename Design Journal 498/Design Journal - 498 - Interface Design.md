@@ -264,6 +264,8 @@ Why?
 
 # User Form Prototype 1  
 ##### Motivation behind the form:  
-For the feedback form, I wanted to focus on how people understand the prototype visually. Since Artivault is still an early wireframe, I am not testing full functionality yet. I am testing the layout, information hierarchy, labels, and overall organization. The questions focus on the Collection Overview, filters, artifact details, damage tickets, triage, and dashboard. I want to see what feels clear and what feels confusing. I also want to know what users notice first and where they would naturally look for information. The answers will help me find areas that need to be simplified or reorganized before I make the prototype more interactive.
+For the feedback form, I wanted to focus on how people understand the prototype visually. Since Artivault is still an early wireframe, I am not testing full functionality yet. I am testing the layout, information hierarchy, labels, and overall organization. The questions focus on the Collection Overview, filters, artifact details, damage tickets, triage, and dashboard. I want to see what feels clear and what feels confusing. I also want to know what users notice first and where they would naturally look for information. The answers will help me find areas that need to be simplified or reorganized before I make the prototype more interactive.  
+
+Link to Google Docs:   
 
 https://docs.google.com/forms/d/e/1FAIpQLSc36mMpYvWD0eGBj9RIcrUQPh6sdHybdJhMJz5y3Qbou6tOgw/viewform?usp=publish-editor
