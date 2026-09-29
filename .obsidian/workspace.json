@@ -6,7 +6,6 @@
       {
         "id": "9c946229ac9c3643",
         "type": "tabs",
-        "dimension": 68.84517766497463,
         "children": [
           {
             "id": "eb977bbc826d9f94",
@@ -20,23 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Design Journal - 498 - Interface Design"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a9cfa10b80b29e00",
-        "type": "tabs",
-        "dimension": 31.15482233502538,
-        "children": [
-          {
-            "id": "0388b69fc432dbbb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -205,13 +187,13 @@
   },
   "active": "eb977bbc826d9f94",
   "lastOpenFiles": [
-    "Design Journal 498/At a Glance Overview from Company's Description Document.md",
+    "Design Journal 498/images/presetExample_Palworld.webp",
     "Design Journal 498/Design Journal - 498 - Interface Design.md",
     "Design Journal 498/images/B2B_track_Description.png",
     "Design Journal 498/images/Artivault_Logos.svg",
+    "Design Journal 498/At a Glance Overview from Company's Description Document.md",
     "README.md",
     "User Flow on Figma.md",
-    "Design Journal 498/images/presetExample_Palworld.webp",
     "Pasted image 20260923181442.png",
     "Design Journal 498/images/Unconfirmed 326386.crdownload",
     "Design Journal 498/Artivault_Logos.svg",
