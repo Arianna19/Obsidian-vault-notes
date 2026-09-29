@@ -258,7 +258,9 @@ Key Factors and Reasoning Behind:
 3.  Personal main inspiration was while playing the video game _Palworld, there's a rotation preset option for the Pals_ in your inventory which I found practical, quick and easy to use.`  
 4. Doing this preset save option makes it that every user has to have a personal profile now which ads need for a login page
 	
-[[presetExample_Palworld.webp]]    
+[[presetExample_Palworld.webp]]
+![This is an image of Palworld](images/presetExample_Palworld.webp)
+
 
 ###### - "Damage Ticket" page creation  
 
