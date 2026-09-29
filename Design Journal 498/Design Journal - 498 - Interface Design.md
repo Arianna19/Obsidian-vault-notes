@@ -207,7 +207,8 @@ Why it doesn't work well?
 # User Assumptions/Data Interpretation
 ##### Data Interpretation Approach
 [[	Persona Map on Figma with a mix of Affinity Diagramming]]
-		- Link: [https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?t=lH8eTZCQpcUQHqdf-6](https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?node-id=17-1990&t=s9MU6RfQtC61Ij55-4)
+		- Link:   
+		[https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?t=lH8eTZCQpcUQHqdf-6](https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?node-id=17-1990&t=s9MU6RfQtC61Ij55-4)
 
 # List of Key Features
 ##### Features important to test (3)
