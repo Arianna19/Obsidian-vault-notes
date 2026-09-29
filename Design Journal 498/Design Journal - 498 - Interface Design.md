@@ -5,8 +5,6 @@ Topic Selection : Production Project : ARTIVAULT (B2B)
 
 - I chose to go with Track 1 being Artivault because it's a design challenge I've never faced in the passed before. I mainly specialized in Business to Customer challenges in the past and I'm taking this opportunity to create a Business to Business design. By doing so I'm also envisioning this design to contribute to my overall portfolio for future employment. Overall, this choice was made to solely step out of my comfort zone as a designer. 
 
-![Alt Text] (B2B_track_Description.png)
-
 [[B2B_track_Description.png]]
 
 ## At a Glance Overview from Company's Description Document
