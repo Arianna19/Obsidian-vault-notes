@@ -232,7 +232,11 @@ Why it doesn't work well?
 [[	User Flow on Figma]]  
 		-  Link: https://www.figma.com/board/d3EpxpeCnAKdIplVabUhBV/EmpathyMaps_498_Artivault?node-id=17-1991&t=s9MU6RfQtC61Ij55-4
 
-##### Wireframing Prototype 1 (2026-09-29)
+##### Wireframing Prototype 1 (2026-09-29)  
+
+Link to Prototype 1:   
+https://www.figma.com/design/lzBgjmTrpfn34zzNeVUofv/Prototype1_498_Artivault?m=auto&t=e4i1wkqm6nIfcCDF-1  
+
 Focus: 
 1. `General view: Search screen, Create Damage Ticket screen, Collection Overview screen;`
 2. `Ticketing management: (Critical, Moderate, Low);`
