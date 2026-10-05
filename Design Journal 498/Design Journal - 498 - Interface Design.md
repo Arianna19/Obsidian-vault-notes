@@ -326,3 +326,4 @@ Explore typography scales, subtle row contrast, and a color palette that makes c
 	4. Light green
 	5. Orange
 ![[Pasted image 20261005170102.png]]
+![This is an image of project colour palette 1](images/First_Colour_Palette_Test.png)
