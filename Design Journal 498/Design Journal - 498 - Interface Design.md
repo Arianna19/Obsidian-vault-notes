@@ -315,7 +315,7 @@ Clients also want to see color explorations. Begin investigating visual cues and
 
 Explore typography scales, subtle row contrast, and a color palette that makes complex artifact logs feel premium and scannable."
 
-##### Prototype 1  
+##### Colour Prototype 1  
 - Important to note: Already started testing colours within the first prototype  
 	- I was aiming for neutral and earthy tones to fit with a museum-like aesthetic
 	- Also aiming for unisexe-like colour palette
@@ -324,6 +324,33 @@ Explore typography scales, subtle row contrast, and a color palette that makes c
 	2. Yellow
 	3. Baby blue
 	4. Light green
-	5. Orange
-![[Pasted image 20261005170102.png]]
+	5. Orange  
+	
 ![This is an image of project colour palette 1](images/First_Colour_Palette_Test.png)
+![[First_Colour_Palette_TestDisplay.png]]
+
+Conclusion:  
+1. Purple:  
+- Really liked the neutral colours 
+- Potential of not needing a dark mode 
+- Need one contrasting colour for buttons  
+
+2. Yellow:  
+- Very nice colour combinations
+- Slightly too earthy 
+- Felt more garden themed  
+
+3. Baby Blue:  
+- Not the right colours for the theme
+- Too soft for corporate usage
+- Didn't feel elevated enough  
+
+4. Light Green:  
+- Felt more Easter like
+- Not enough highlight
+- Colours mixed too much to each other
+
+1. Orange
+- Too aggressive on the eyes
+- Wouldn't want to use more than 5 minutes
+- Felt more like a chocolate brand
