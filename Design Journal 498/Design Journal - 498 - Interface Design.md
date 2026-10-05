@@ -305,3 +305,24 @@ For the feedback form, I wanted to focus on how people understand the prototype 
 Link to Google Docs:   
 
 https://docs.google.com/forms/d/e/1FAIpQLSc36mMpYvWD0eGBj9RIcrUQPh6sdHybdJhMJz5y3Qbou6tOgw/viewform?usp=publish-editor
+
+# Colour and Fonts and Aesthetics
+
+New addition from the team:   
+"VINCENT - PRODUCT MANAGER We should consider adding a quick preview or side panel to the main page, allowing users to rapidly inspect artifact details prior to accessing the detailed view.   
+
+Clients also want to see color explorations. Begin investigating visual cues and detailed styling on top of the current wireframes. Museum directors are intimidated by dense spreadsheets, so we need visual polish to soften the data load.   
+
+Explore typography scales, subtle row contrast, and a color palette that makes complex artifact logs feel premium and scannable."
+
+##### Prototype 1  
+- Important to note: Already started testing colours within the first prototype  
+	- I was aiming for neutral and earthy tones to fit with a museum-like aesthetic
+	- Also aiming for unisexe-like colour palette
+	- Started with 5 colours of for the logo:  
+	1. Purple  
+	2. Yellow
+	3. Baby blue
+	4. Light green
+	5. Orange
+![[Pasted image 20261005170102.png]]
