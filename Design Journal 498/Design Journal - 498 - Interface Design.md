@@ -327,7 +327,7 @@ Explore typography scales, subtle row contrast, and a color palette that makes c
 	5. Orange  
 	
 ![This is an image of project colour palette 1](images/First_Colour_Palette_Test.png)
-![[First_Colour_Palette_TestDisplay.png]]
+![This is an image of project colour palette 1 Display](images/First_Colour_Palette_TestDisplay.png)
 
 Conclusion:  
 1. Purple:  
