@@ -369,3 +369,4 @@ https://www.figma.com/design/ySRbHlluOxkzJDfzR5VY1I/Prototype2_498_Artivault?nod
 
 Link to Figma Second Colour Palette Test:  
 https://www.figma.com/design/ySRbHlluOxkzJDfzR5VY1I/Prototype2_498_Artivault?node-id=92-8
+
