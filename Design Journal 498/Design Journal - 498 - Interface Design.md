@@ -350,7 +350,7 @@ Conclusion:
 - Not enough highlight
 - Colours mixed too much to each other
 
-1. Orange
+5. Orange
 - Too aggressive on the eyes
 - Wouldn't want to use more than 5 minutes
 - Felt more like a chocolate brand
@@ -365,4 +365,7 @@ https://www.figma.com/design/ySRbHlluOxkzJDfzR5VY1I/Prototype2_498_Artivault?nod
 	- Focused a lot more on earthy tones that are soft on the eyes to help with visual consumption of the interface.
 	1. Purple (Kept from prototype 1 from high success rate)
 	2. Forest Green
-	3. Mustard Orange
+	3. Mustard Orange  
+
+Link to Figma Second Colour Palette Test:  
+https://www.figma.com/design/ySRbHlluOxkzJDfzR5VY1I/Prototype2_498_Artivault?node-id=92-8
