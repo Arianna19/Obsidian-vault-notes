@@ -393,6 +393,6 @@ Link to Prototype 3 (2026-10-12): https://www.figma.com/design/fO0ONi4Qjdnw4mhbi
 - Started adding user interactions: How would it flow depending on the task you're doing?;  
 - Think about profit ideas: How can the interface make money from the users?;  
 - *Non priority*: Create a nicer layout for the "Create Damage Ticket" page;
-- *Non priority*: Add more double layered frosted glass elements for uniformity on the interface example below.
+- *Non priority*: Add more double layered frosted glass elements for uniformity on the interface example below.  
   ![This is an image of layered frosted glass that has to be added more](images/Double_Layered_FrostedGlass.png)
 
