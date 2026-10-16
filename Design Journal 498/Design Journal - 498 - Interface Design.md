@@ -370,3 +370,18 @@ https://www.figma.com/design/ySRbHlluOxkzJDfzR5VY1I/Prototype2_498_Artivault?nod
 Link to Figma Second Colour Palette Test:  
 https://www.figma.com/design/ySRbHlluOxkzJDfzR5VY1I/Prototype2_498_Artivault?node-id=92-8
 
+# Final Colour and Aesthetic choice
+
+Link to Prototype 3 (2026-10-12): https://www.figma.com/design/fO0ONi4Qjdnw4mhbiv4GM2/Prototype3_498_Artivault?node-id=0-1  
+
+- Started Prototype 3 that now has the official colour palette that Artivault will be;  
+- Also finalized frosted glass effect for the interface;
+- Created a small design system for:  
+		- Colours;  
+		- Icons;  
+		- Font sizes;  
+		- Button variations (hover, click, focus and not clicked).  
+- Also added the "Incidents" page since it was missing from past iterations;  
+- New addition from sales they want a quick view panel: 
+		- Panel has been designed;  
+		- TO DO: Figure out interaction and where it would show up on page.  
