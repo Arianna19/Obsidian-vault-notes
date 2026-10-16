@@ -385,3 +385,12 @@ Link to Prototype 3 (2026-10-12): https://www.figma.com/design/fO0ONi4Qjdnw4mhbi
 - New addition from sales they want a quick view panel: 
 		- Panel has been designed;  
 		- TO DO: Figure out interaction and where it would show up on page.  
+
+##### To do next: 
+- Finalize the quick overview panel from the "Collection" page/window;  
+- Fix how user can control how many items they can view; 
+- Finish design system;  
+- Started adding user interactions: How would it flow depending on the task you're doing?;  
+- Think about profit ideas: How can the interface make money from the users?;  
+- *Non priority*: Create a nicer layout for the "Create Damage Ticket" page;
+- *Non priority*: Add more double layered frosted glass elements for uniformity on the interface example below. 
