@@ -357,8 +357,10 @@ Conclusion:
 
 ##### Colour Prototype 2  
 - Important to note: Already started the second prototype for wireframing as well, worked on the ticket drafts and report drafts pages  
+
 Link to Figma Wireframe Prototype 2:  
-https://www.figma.com/design/ySRbHlluOxkzJDfzR5VY1I/Prototype2_498_Artivault?node-id=0-1
+https://www.figma.com/design/ySRbHlluOxkzJDfzR5VY1I/Prototype2_498_Artivault?node-id=0-1  
+
 - Important to note: Minimized the colour palettes to 3 main ones and I broadened the colour testing onto the other windows of Artivault to see how they would carry throughout the interface. 
 	- Did more research into colour palettes for art focused themes
 	- Looked more at art styles for the aesthetics of the interface: minimalism, painting, geomtric 
