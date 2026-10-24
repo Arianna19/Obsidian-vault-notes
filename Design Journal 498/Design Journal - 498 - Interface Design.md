@@ -415,8 +415,11 @@ Project Requirements additions:
 1. Being able to export selected artifacts to either PDF or CSV files
 	- Easy and simple dropdown menu was created;  
 	- Reason: Simplicity was to not "scare" users from the interface and keep interactions easy.
+  ![This is an image of export button](images/Export_menu_button.png)
 
 2. Triage log menu 
 	- The triage log menu was modified further to allow users to choose which type of incident they want to look at: Critical, Moderate and Low;
-	- Reason: Simplify and control information shown to users.
+	- Reason: Simplify and control information shown to users also quick an easy way to get important information.
+  ![This is an image of logs states for triage](images/Urgent_Triage_LogStates.png)
+
 
