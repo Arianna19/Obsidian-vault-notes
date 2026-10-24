@@ -401,15 +401,22 @@ Link to Prototype 3 (2026-10-12): https://www.figma.com/design/fO0ONi4Qjdnw4mhbi
 # Prototype 3 Continuation
 
 Recent changes:  
-- Changed the colours of the critical, moderate and low labels;  
-		- From user feedback it was hard to tell the priority lists since the previous tones selected blended into the background.  
-- Added components to many elements in the dashboard for interactivity purposes; 
-- Added interactivity between the main pages: Dashboard, Collection, Incidents, New Tickets;
-- Fixed the layout of dropdown menu of Reports/Drafts;
-- Added a help icon in upper right corner to strengthen credibility pillar; 
-- Added a refresh state for the dashboard window when users click the general "Refresh" button;
-- Put some icons for clarity using a Figma icon library;
-- Added loading state page after user login for clarity and progression for the prototype.  
+- Changed the colours of the critical, moderate and low labels   
+		- From user feedback it was hard to tell the priority lists since the previous tones selected blended into the background; 
+- Added components to many elements in the dashboard for interactivity purposes  
+		- Allows users to interact with key components and makes the prototype feel more realistic and intuitive;   
+- Added interactivity between the main pages: Dashboard, Collection, Incidents, New Tickets  
+		- Creates a more cohesive experience by allowing users to move between key workflows;  
+- Fixed the layout of dropdown menu of Reports/Drafts  
+		- Improves visual consistency and readability, making the menu easier to navigate;  
+- Added a help icon in upper right corner
+		- Strengthens the credibility pillar by making support more visible and reassuring users that help is available;
+- Added a refresh state for the dashboard window when users click the general "Refresh" button  
+		- Provides visual feedback that the dashboard is updating and reinforces user control over data synchronization;  
+- Put some icons for clarity using a Figma icon library  
+		- Improves visual clarity by helping users quickly recognize actions and navigate the interface more intuitively;
+- Added loading state page after user login  
+		- Clarifies the transition into the platform and communicates progress while the dashboard loads.  
   ![This is an image of login loading page](images/Login_loading_Page.png)
 
 Project Requirements additions:  
