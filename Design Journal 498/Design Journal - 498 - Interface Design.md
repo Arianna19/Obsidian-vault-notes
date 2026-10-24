@@ -398,3 +398,12 @@ Link to Prototype 3 (2026-10-12): https://www.figma.com/design/fO0ONi4Qjdnw4mhbi
 - *Non priority*: Add more double layered frosted glass elements for uniformity on the interface example below.  
   ![This is an image of layered frosted glass that has to be added more](images/Double_Layered_FrostedGlass.png)
 
+# Prototype 3 Continuation
+
+Recent changes:  
+- Changed the colours of the critical, moderate and low labels  
+		- From user feedback it was hard to tell the priority lists since the previous tones selected blended into the background.  
+- Added components to many elements in the dashboard for interactivity purposes 
+- Added a help icon in upper right corner to strengthen credibility pillar 
+- Added a refresh state for the dashboard window when users click the general "Refresh" button
+- Added loading state page after user login for clarity and progression for the prototype
