@@ -407,3 +407,4 @@ Recent changes:
 - Added a help icon in upper right corner to strengthen credibility pillar 
 - Added a refresh state for the dashboard window when users click the general "Refresh" button
 - Added loading state page after user login for clarity and progression for the prototype
+  ![This is an image of login loading page](images/Login_loading_Page).png)
