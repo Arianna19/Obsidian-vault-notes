@@ -408,6 +408,7 @@ Recent changes:
 - Fixed the layout of dropdown menu of Reports/Drafts;
 - Added a help icon in upper right corner to strengthen credibility pillar; 
 - Added a refresh state for the dashboard window when users click the general "Refresh" button;
+- Put some icons for clarity using a Figma icon library;
 - Added loading state page after user login for clarity and progression for the prototype.  
   ![This is an image of login loading page](images/Login_loading_Page.png)
 
@@ -420,6 +421,6 @@ Project Requirements additions:
 2. Triage log menu 
 	- The triage log menu was modified further to allow users to choose which type of incident they want to look at: Critical, Moderate and Low;
 	- Reason: Simplify and control information shown to users also quick an easy way to get important information.
-  ![This is an image of logs states for triage](images/Urgent_Triage_LogStates.png)
+![This is an image of logs states for triage](images/Urgent_Triage_LogStates.png)
 
 
