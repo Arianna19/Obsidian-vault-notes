@@ -372,7 +372,7 @@ https://www.figma.com/design/ySRbHlluOxkzJDfzR5VY1I/Prototype2_498_Artivault?nod
 Link to Figma Second Colour Palette Test:  
 https://www.figma.com/design/ySRbHlluOxkzJDfzR5VY1I/Prototype2_498_Artivault?node-id=92-8
 
-# Final Colour and Aesthetic choice
+# Prototype 3 Final Colour and Aesthetic choice
 
 Link to Prototype 3 (2026-10-12): https://www.figma.com/design/fO0ONi4Qjdnw4mhbiv4GM2/Prototype3_498_Artivault?node-id=0-1  
 
@@ -401,10 +401,22 @@ Link to Prototype 3 (2026-10-12): https://www.figma.com/design/fO0ONi4Qjdnw4mhbi
 # Prototype 3 Continuation
 
 Recent changes:  
-- Changed the colours of the critical, moderate and low labels  
+- Changed the colours of the critical, moderate and low labels;  
 		- From user feedback it was hard to tell the priority lists since the previous tones selected blended into the background.  
-- Added components to many elements in the dashboard for interactivity purposes 
-- Added a help icon in upper right corner to strengthen credibility pillar 
-- Added a refresh state for the dashboard window when users click the general "Refresh" button
-- Added loading state page after user login for clarity and progression for the prototype  
+- Added components to many elements in the dashboard for interactivity purposes; 
+- Added interactivity between the main pages: Dashboard, Collection, Incidents, New Tickets;
+- Fixed the layout of dropdown menu of Reports/Drafts;
+- Added a help icon in upper right corner to strengthen credibility pillar; 
+- Added a refresh state for the dashboard window when users click the general "Refresh" button;
+- Added loading state page after user login for clarity and progression for the prototype.  
   ![This is an image of login loading page](images/Login_loading_Page.png)
+
+Project Requirements additions:  
+1. Being able to export selected artifacts to either PDF or CSV files
+	- Easy and simple dropdown menu was created;  
+	- Reason: Simplicity was to not "scare" users from the interface and keep interactions easy.
+
+2. Triage log menu 
+	- The triage log menu was modified further to allow users to choose which type of incident they want to look at: Critical, Moderate and Low;
+	- Reason: Simplify and control information shown to users.
+
