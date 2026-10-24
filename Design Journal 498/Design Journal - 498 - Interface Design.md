@@ -420,6 +420,6 @@ Project Requirements additions:
 2. Triage log menu 
 	- The triage log menu was modified further to allow users to choose which type of incident they want to look at: Critical, Moderate and Low;
 	- Reason: Simplify and control information shown to users also quick an easy way to get important information.
-  ![This is an image of logs states for triage](images/Urgent_Triage_LogStates.png =200x100)
+  ![This is an image of logs states for triage](images/Urgent_Triage_LogStates.png)
 
 
