@@ -430,4 +430,30 @@ Project Requirements additions:
 	- Reason: Simplify and control information shown to users also quick an easy way to get important information.
 ![This is an image of logs states for triage](images/Urgent_Triage_LogStates.png)
 
+# User Form Prototype 3
 
+##### Motivation behind the form:  
+The purpose of this form is to evaluate the usability of Artivault’s interactive prototype by having participants step into Santiago’s role as a museum manager and complete a realistic task, who's based off of the persona map done in earlier stages. Based on feedback from the previous review, the form was shortened to make it less time-consuming and easier to complete. The questions focus on navigation, information clarity, and visual design to gather useful feedback while participants work through Santiago’s mission.  
+
+The form is also divided into 4 sections to help users not feel overwhelmed when completing it and for them to have an indication of how much is left to complete. 
+
+Section 1: Mission related questions 
+Section 2: Navigation and Information structure related questions
+Section 3: Tools and Actions related questions, what was used 
+Section 4: Visual design and Aesthetics related questions
+
+**Using the prototype, try to:**
+
+1. Review the dashboard to understand the current state of the collection.
+    
+2. Find the urgent damage issue and review its details.
+    
+3. Identify who is responsible for the issue and determine what action, if any, is needed.
+    
+4. Locate the relevant collection or artifact information.
+    
+5. Return to the dashboard or overview when you feel you have a clear picture of the situation.+
+
+Link to Google Docs:   
+
+https://docs.google.com/forms/d/e/1FAIpQLSdXDaPejD_CLzG_4aQ-kiW2OQnoCBAUidcU4V_ABcAAL3cK1g/viewform?usp=publish-editor
