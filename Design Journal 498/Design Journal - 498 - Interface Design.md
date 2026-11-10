@@ -482,4 +482,4 @@ Both requirements have been added to the interface:
 		- Created for quick glances to understand the state of the collection of the museum   
 		- Quick access to urgent artifacts that need immediate care  
 		- Since Artivault's main purpose is ticketing, users have immediate access to add a new ticket on the landing page to simplify navigation                
-![This is an image of the landing page](images/Landing_page.png)
+![This is an image of the landing page](images/Landing_Page.png)
