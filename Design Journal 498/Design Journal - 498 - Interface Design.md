@@ -477,8 +477,8 @@ Both requirements have been added to the interface:
 ![This is an image of breadcrumb bar](images/breadcrumb_bar.png)
 ![This is an image of global search bar](images/GlobalSearch_bar.png)
 
-3. Overview screen
-		- Main overview screen which is the landing page of the platform when users initially log in 
-		- Created for quick glances to understand the state of the collection of the museum 
-		- Quick access to urgent artifacts that need immediate care
-		- Since Artivault's main purpose is ticketing, users have immediate access to add a new ticket on the landing page to simplify navigation
+2. Overview screen  
+		- Main overview screen which is the landing page of the platform when users initially log in   
+		- Created for quick glances to understand the state of the collection of the museum   
+		- Quick access to urgent artifacts that need immediate care  
+		- Since Artivault's main purpose is ticketing, users have immediate access to add a new ticket on the landing page to simplify navigation                
