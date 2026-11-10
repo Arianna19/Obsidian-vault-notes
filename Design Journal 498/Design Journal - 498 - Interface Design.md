@@ -475,8 +475,8 @@ Both requirements have been added to the interface:
 		- Consistent bar that is always present no matter what page users are on while being on Artivault's platform  
 		- Also global search bar fixed on the top of the screen for quick and easy access for users  
 
-2. Overview screen
-		- Main overview screen which is the landing page of the platform when users initially log in 
-		- Created for quick glances to understand the state of the collection of the museum 
-		- Quick access to urgent artifacts that need immediate care
-		- Since Artivault's main purpose is ticketing, users have immediate access to add a new ticket on the landing page to simplify navigation
+2. Overview screen  
+		- Main overview screen which is the landing page of the platform when users initially log in   
+		- Created for quick glances to understand the state of the collection of the museum   
+		- Quick access to urgent artifacts that need immediate care  
+		- Since Artivault's main purpose is ticketing, users have immediate access to add a new   ticket on the landing page to simplify navigation  
