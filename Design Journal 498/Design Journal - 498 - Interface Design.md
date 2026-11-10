@@ -474,8 +474,10 @@ Both requirements have been added to the interface:
 1. Breadcrumb Bar  
 		- Consistent bar that is always present no matter what page users are on while being on Artivault's platform  
 		- Also global search bar fixed on the top of the screen for quick and easy access for users  
+![This is an image of breadcrumb bar](images/breadcrumb_bar.png)
+![This is an image of global search bar](images/GlobalSearch_bar.png)
 
-2. Overview screen
+3. Overview screen
 		- Main overview screen which is the landing page of the platform when users initially log in 
 		- Created for quick glances to understand the state of the collection of the museum 
 		- Quick access to urgent artifacts that need immediate care
