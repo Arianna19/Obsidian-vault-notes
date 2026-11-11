@@ -469,6 +469,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdXDaPejD_CLzG_4aQ-kiW2OQnoCBAUidcU4V_A
 Company has new requests which are:   
 1. Breadcrumb Bar: A persistent navigation anchor that prevents users from feeling lost across identical-looking screens  
 2. Overview Screen: Landing page for your platform with visual data graphics and important logs upfront    
+3. What's a special element to this platform
 
 Both requirements have been added to the interface:  
 1. Breadcrumb Bar  
@@ -483,3 +484,8 @@ Both requirements have been added to the interface:
 		- Quick access to urgent artifacts that need immediate care  
 		- Since Artivault's main purpose is ticketing, users have immediate access to add a new ticket on the landing page to simplify navigation                
 ![This is an image of the landing page](images/Landing_Page.png)
+
+3. Special Unique element
+		- What stands out from this platform is the inclusion of frosted glass elements to add a dynamic artistic element
+		- Another element is how the Artivault logo is subtlety present throughout the platform, meaning the it's geometrical (pentagon) shape
+
