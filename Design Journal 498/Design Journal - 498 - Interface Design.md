@@ -485,7 +485,7 @@ Both requirements have been added to the interface:
 		- Since Artivault's main purpose is ticketing, users have immediate access to add a new ticket on the landing page to simplify navigation                
 ![This is an image of the landing page](images/Landing_Page.png)
 
-3. Special Unique element
+3. Special Unique element  
 		- What stands out from this platform is the inclusion of frosted glass elements to add a dynamic artistic element  
 		- Another element is how the Artivault logo is subtlety present throughout the platform, meaning the it's geometrical (pentagon) shape  
 ![This is an image of geometry](images/Artivault_Geometry.png)
