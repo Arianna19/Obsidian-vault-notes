@@ -491,3 +491,22 @@ Both requirements have been added to the interface:
 ![This is an image of geometry](images/Artivault_Geometry.png)
 ![This is an image of unique elements](images/Unique_frosted_glass.png)
 
+**Second Version (Version B) of Prototype:** 
+
+What:  
+- Made a darker version and colour palette version (Version B);
+- Different aesthetic;
+- Changed the font from Inter (Version A) to IBM Plex Sans (Version B)
+- Layout remains the same.  
+
+Why:  
+- This was done to test if the direction of initial colour direction (Version A) is right or not 
+- Experimenting with how information looks in different colours 
+- Also done to tackle two tasks being: 
+			- If Artivault were to have a dark mode what would work and wouldn't for contrast and how dense information looks on darker backgrounds;    
+			- What type of aesthetic Artivault is more appropriate for;  
+			- Killing two bird with one stone being figuring out a dark mode or not and if users prefer a more dark modern look for a "museum ticketing platform";  
+			- If a darker interface is what will make Artivault stand out more from others.  
+- Font change was done with motivation to see if it makes the dense/huge amount of information easier to digest
+- Do users feel more welcomed with a darker look of Artivault (Version B) or prefer a fresher look to work on (Version B)
+
