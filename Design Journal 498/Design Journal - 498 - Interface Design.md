@@ -507,7 +507,6 @@ Why:
 			- What type of aesthetic Artivault is more appropriate for;  
 			- Killing two bird with one stone being figuring out a dark mode or not and if users prefer a more dark modern look for a "museum ticketing platform";  
 			- If a darker interface is what will make Artivault stand out more from others.  
-  
 - Font change was done with motivation to see if it makes the dense/huge amount of information easier to digest
 - Do users feel more welcomed with a darker look of Artivault (Version B) or prefer a fresher look to work on (Version B)
 
