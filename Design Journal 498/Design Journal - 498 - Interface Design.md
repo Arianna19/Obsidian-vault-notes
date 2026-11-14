@@ -430,7 +430,7 @@ Project Requirements additions:
 	- Reason: Simplify and control information shown to users also quick an easy way to get important information.
 ![This is an image of logs states for triage](images/Urgent_Triage_LogStates.png)
 
-# User Form Prototype 3
+# User Form Design Review 2
 
 ##### Motivation behind the form:  
 The purpose of this form is to evaluate the usability of Artivault’s interactive prototype by having participants step into Santiago’s role as a museum manager and complete a realistic task, who's based off of the persona map done in earlier stages. Based on feedback from the previous review, the form was shortened to make it less time-consuming and easier to complete. The questions focus on navigation, information clarity, and visual design to gather useful feedback while participants work through Santiago’s mission.  
@@ -491,7 +491,7 @@ Both requirements have been added to the interface:
 ![This is an image of geometry](images/Artivault_Geometry.png)
 ![This is an image of unique elements](images/Unique_frosted_glass.png)
 
-**Second Version (Version B) of Prototype:** 
+**Second Version/Variation (Version B) of Prototype:** 
 
 What:  
 - Made a darker version and colour palette version (Version B);
@@ -510,3 +510,34 @@ Why:
 - Font change was done with motivation to see if it makes the dense/huge amount of information easier to digest
 - Do users feel more welcomed with a darker look of Artivault (Version B) or prefer a fresher look to work on (Version B)
 
+# User Form Design Review 3  
+  
+**Motivation behind the form:**        
+- Compare feedback from the two participant groups;
+- Evaluate the overall aesthetic appeal of each theme;
+- Understand preferences regarding colour palettes and contrast;
+- Assess readability and visual hierarchy;
+- Explore visual comfort and consistency across screens;
+- Determine which theme feels more appropriate for a professional museum management platform.
+
+This form is made incredibly short because the prototype itself is super short and simplistic. 
+It's also divided into two paths depending on what the users saw being Version A or Version B of 
+the prototype. 
+
+**With this Prototype:**
+- Developed two visual variations of the same Artivault prototype;  
+- Participants were assigned to either Version A or Version B;  
+- Used a slideshow format rather than a functional user flow;  
+- Participants simply clicked through the screens and could return to previous screens using the back arrow;  
+- Removed task-based interactions so users could focus entirely on the visual experience;  
+- Encouraged participants to form their own impressions without being directed toward a particular version.
+
+Link to Google Docs:     
+
+https://forms.gle/94TXQWv2AYN85BXeA
+
+**Expected Outcome**
+- Identify which visual direction users prefer;  
+- Understand the strengths and weaknesses of both themes;  
+- Have the potential to create a dark mode for the future;
+- Use participant feedback to guide the final visual design of Artivault.
